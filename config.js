@@ -6,18 +6,18 @@ import { fileURLToPath } from 'url';
 global.botnumber = '';
 global.confirmCode = '';
 global.nomebot = '𝑽𝑬𝑲𝑨𝑫𝑰𝑹-𝑩𝑶𝑻';
-global.packname = '𝑽𝑬𝑲𝑨𝑫𝑰𝑹-𝑩𝑶𝑻';
-global.author = '𝐌𝐝';
-global.vs = '8.8';
+global.packname = '𝑽𝑬𝑲𝑨𝑫𝑰𝑹';
+global.author = '𝑩𝑶𝑻';
+global.vs = '1.0';
 global.collab = '𝑽𝑬𝑲𝑨𝑫𝑰𝑹-𝑩𝑶𝑻';
 global.wm = global.nomebot;
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
 global.owner = [
-  ['212614325674', 'vexper', true],
-  ['212785924420'],'Deadly', true],
-  ['4529999199'],  'kaneki', true],
+  ['212785924420'], 'Deadly', true],
+  ['4529999199'], 'Kaneki', true],
+  ['212614325674'],  'vespa', true],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx']
